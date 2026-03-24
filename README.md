@@ -8,8 +8,9 @@ in this project i explored student data to see how study hours affect grades
 - Python
 - Pandas
 - Matplotlib
-- 
+  
 # Key Insights
 1- students who study more tend to get higher grades
+
 2- there is a positive relationship between study hours and performance
 
