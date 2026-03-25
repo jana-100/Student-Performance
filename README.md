@@ -2,7 +2,7 @@
 This is my first data analysis project using Python
 
 #Project Description:
-in this project i explored student data to see how study hours affect grades
+in this project i analysed student data to see how study hours affect grades
 
 #Tools Used
 - Python
